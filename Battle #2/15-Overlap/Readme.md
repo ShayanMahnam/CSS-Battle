@@ -1,0 +1,46 @@
+```html
+<div class="container">
+  <div class="circle left"></div>
+  <div class="circle right">
+    <div class="hidden-circle"></div>
+  </div>
+</div>
+
+<style>
+  * {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  .container {
+    width: 100%;
+    height: 100%;
+    background: #09042A;
+    position: relative;
+  }
+  .circle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  .left {
+    background: #7B3F61;
+    transform: translate(calc(-50% + -50px), -50%)
+  }
+  .right {
+    background: #E78481;
+    transform: translate(calc(-50% + 50px), -50%);
+    overflow: hidden;
+  }
+  .hidden-circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: #09042A;
+    transform: translateX(-100px);
+  }
+</style>
+```
