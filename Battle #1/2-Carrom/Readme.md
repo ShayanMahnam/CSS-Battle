@@ -1,7 +1,6 @@
 ```html
 <div></div>
-```
-```css
+
 <style>
   body {
     background: #62374e;

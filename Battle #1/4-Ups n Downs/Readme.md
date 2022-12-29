@@ -3,8 +3,7 @@
 <div id="a"></div>
 <div id="b"></div>
 <div id="c"></div>
-```
-```css
+
 <style>
   body{
     background: #62306D
@@ -34,8 +33,7 @@
 ### Other Solution
 ```html
 <div></div>
-```
-```css
+
 <style>
   body {
     background: #62306D;

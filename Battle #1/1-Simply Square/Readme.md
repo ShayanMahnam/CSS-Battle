@@ -1,8 +1,7 @@
 ### My Solution
 ```html
 <div></div>
-```
-```css
+
 <style>body{background:#5d3a3a;margin:0;}div{width:50%;height:66.7%;background:#dd6b4d;background:#b5e0ba;}</style>
 ```
 

@@ -2,8 +2,7 @@
 <div id="rec">
   <div id="cir"></div>
 </div>
-```
-```css
+
 <style>
   body {
     background: #6592CF;
