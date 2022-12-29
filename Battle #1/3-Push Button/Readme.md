@@ -1,6 +1,9 @@
+```html
 <div id="rec">
   <div id="cir"></div>
 </div>
+```
+```css
 <style>
   body {
     background: #6592CF;
@@ -25,3 +28,4 @@
     outline: 50px solid #6592CF;
   }
 </style>
+```

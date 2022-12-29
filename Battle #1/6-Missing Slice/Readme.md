@@ -1,3 +1,4 @@
+```html
 <div></div>
 <style>
   body {
@@ -26,3 +27,4 @@
   }
   
 </style>
+```

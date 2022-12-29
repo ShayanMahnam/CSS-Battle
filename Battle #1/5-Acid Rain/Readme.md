@@ -1,7 +1,9 @@
+```html
 <div id="c"></div>
 <div id="a"></div>
 <div id="b"></div>
-
+```
+```css
 <style>
   body {
     background:#0B2429
@@ -30,3 +32,4 @@
     border-radius: 50%;
   }
 </style>
+```

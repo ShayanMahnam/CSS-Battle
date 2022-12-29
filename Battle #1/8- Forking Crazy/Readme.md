@@ -1,3 +1,4 @@
+```html
 <div></div>
 <style>
   body {
@@ -39,3 +40,4 @@
     height: 70px;
   }
 </style>
+```

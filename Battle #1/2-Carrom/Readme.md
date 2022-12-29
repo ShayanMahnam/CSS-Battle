@@ -1,4 +1,7 @@
+```html
 <div></div>
+```
+```css
 <style>
   body {
     background: #62374e;
@@ -11,3 +14,4 @@
     box-shadow: 250px 0 #fdc57b, 250px 150px #fdc57b, 0 150px #fdc57b;
   }
 </style>
+```

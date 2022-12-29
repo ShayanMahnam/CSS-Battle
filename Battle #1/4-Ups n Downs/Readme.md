@@ -1,8 +1,10 @@
 ### My Solution
-
+```html
 <div id="a"></div>
 <div id="b"></div>
 <div id="c"></div>
+```
+```css
 <style>
   body{
     background: #62306D
@@ -28,10 +30,12 @@
     left: 250px;
   }
 </style>
-
+```
 ### Other Solution
-
+```html
 <div></div>
+```
+```css
 <style>
   body {
     background: #62306D;
@@ -53,3 +57,4 @@
     margin: -200px 100px;
   }
 </style>
+```
