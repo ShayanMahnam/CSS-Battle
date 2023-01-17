@@ -1,0 +1,46 @@
+```html
+<div a>
+  <span></span>
+</div>
+
+<style>
+  body{background:#191919}
+  div,span,:before,:after{
+    content:'';
+    position:absolute;
+    left:50%;
+    transform:translateX(-50%);
+  }
+  [a]{
+    width:150px;
+    height:200px;
+    background:#F2AD43;
+    border-radius:100px 100px 27px 27px;
+    top:50px;
+    overflow:hidden;
+  }
+  span{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    background:#FFF58F;
+    top:90px;
+  }
+  span:before{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    background:#E08027;
+    top:11px;
+    transform:translateX(-86%);
+  }
+  span:after{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    background:#824B20;
+    top:11px;
+    transform:translateX(-13%);
+  }
+</style>
+```
